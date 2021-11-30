@@ -17,7 +17,7 @@ drove more efficiently in 2020 than in 2019 by about five MPG.
 
 ## Next Steps
 
-The next phase of this data collection is to use a datalogger. I have found a good option called the Freematics One+. it is an arduino-based OBD-II logger.
+The next phase of this data collection is to use a datalogger. I have found a good option called the Freematics One. it is an arduino-based OBD-II logger.
 
 The first step is to buy the product and get it working with the basic fuctionality. This includes, speed, gps, rpm, throttle, engine load, fuel pressure, and others.
 I will need to verify that these are all working for my vehicle and see what other data is available to be collected. Real-time fuel use would be great.
