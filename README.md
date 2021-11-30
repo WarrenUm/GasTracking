@@ -22,6 +22,3 @@ The next phase of this data collection is to use a datalogger. I have found a go
 The first step is to buy the product and get it working with the basic fuctionality. This includes, speed, gps, rpm, throttle, engine load, fuel pressure, and others.
 I will need to verify that these are all working for my vehicle and see what other data is available to be collected. Real-time fuel use would be great.
 
-I think it would be possible to calculate the total drag forces on the car to monitor for spikes. I know that air density will play a role, but I do not know what error that would introduce if esimated. Otherwise, it would require more sensors for pressure and temperature. I can estimate the frontal area of the car and the drag coefficient.
-
-I think I would need to calculate a baseline total drag force and produce a table for drag as a function of speed. Then, use that as reference to calculate how the drag coefficient changes. All, drag coefficient changes would then be measured from the baseline which may not be accurate or ideal. 
